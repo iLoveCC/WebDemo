@@ -269,7 +269,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566377976892</updated>
-      <workItem from="1566377985828" duration="3404000" />
+      <workItem from="1566377985828" duration="3420000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1566379235639</created>
@@ -306,11 +306,18 @@
       <option name="project" value="LOCAL" />
       <updated>1566380894014</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="测试6">
+      <created>1566381418792</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1566381418792</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3404000" />
+    <option name="totallyTimeSpent" value="3420000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -363,7 +370,8 @@
     <MESSAGE value="测试2" />
     <MESSAGE value="测试4" />
     <MESSAGE value="测试5" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试5" />
+    <MESSAGE value="测试6" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
